@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-entertainment-feeds",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Entertainment Feeds MCP.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "entertainment-feeds",
     "gatewaySlug": "entertainment-feeds",
-    "sourceHash": "v1-ffafc0fc5f65962f2c422831f26c19ee6653719ca9b39d8141dd43c70ca57b60",
-    "sourceCommit": "bb047243cf27f32453103de186b8e6a8b6a1ce79"
+    "sourceHash": "v1-44b6206e0875823bf7e7eec5aeff5bfd417e8d76bd6bcfbcf8c2282c0c1f9432",
+    "sourceCommit": "d35e32c1ffe988e24d391dedb35666387fd2b3d6"
   }
 }
